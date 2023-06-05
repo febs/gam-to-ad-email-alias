@@ -2,7 +2,7 @@
 ### Email Alias import
 
 This script takes email aliases from GSuite and imports them to the 
-proxyAddresses field in Active Directory in the format SMTP: addresss 
+proxyAddresses field in Active Directory in the format SMTP: address 
 
 The G-Suite account and primary email field in Active Directory must match for the aliases to be correctly added.
 
